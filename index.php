@@ -1,6 +1,7 @@
 <?php
 $namaAplikasi = 'Sistem Inventaris Laboratorium';
 $waktu = date('d-m-Y H:i:s');
+$status = 'Sistem siap digunakan';
 ?>
 
 <!doctype html>
