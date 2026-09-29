@@ -3,6 +3,8 @@ $namaAplikasi = 'Sistem Inventaris Laboratorium';
 $waktu = date('d-m-Y H:i:s');
 $status = 'Sistem siap digunakan';
 $versi = 'Versi 1.0';
+$stok = 4;
+$statusAlat = $stok > 0 ? 'Tersedia' : 'Tidak tersedia';
 ?>
 
 <!doctype html>
